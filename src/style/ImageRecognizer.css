@@ -1,0 +1,9 @@
+.ImageRecognizer__Container {
+    margin: auto;
+    width: 50%;
+}
+
+.UploadImage__Text,
+.UploadImage__Input {
+    text-align: center;
+}

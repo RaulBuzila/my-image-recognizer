@@ -1,0 +1,13 @@
+.UploadImage__Container {
+    margin: auto;
+    width: 50%;
+}
+
+.UploadImage__Text,
+.UploadImage__Input {
+    text-align: center;
+}
+
+.UploadImage__Input {
+    margin: 20px 0px;
+}
